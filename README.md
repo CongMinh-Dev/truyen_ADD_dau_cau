@@ -4,16 +4,6 @@
 
 > A deep learning-based solution for recovering punctuation and capitalization in Vietnamese texts using BARTpho-syllable and BLEU score evaluation.
 
----
-
-## 🎓 Group's name: **404 Not Found**
-👨‍💼 **Team Leader:** SIC250127 - Hoàng Phi Hùng  
-👥 **Team Members:**
-- SIC250159 - Nguyễn Vũ Thiện Nhân  
-- SIC250155 - Thái Lê Hùng  
-- SIC250175 - Nguyễn Thị Anh Thư
-
----
 
 ## 📚 References
 - Science Paper: https://arxiv.org/abs/2207.01312
